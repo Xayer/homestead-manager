@@ -1,0 +1,16 @@
+{
+  "name": "homestead-manager",
+  "version": "0.0.0",
+  "description": "A native app for managing laravel homestead",
+  "main": "./dist/main.js",
+  "dependencies": {
+    "vue": "^2.1.10",
+    "vue-electron": "^1.0.6",
+    "vue-material": "^0.7.1",
+    "vue-resource": "^1.0.3",
+    "vue-router": "^2.1.2",
+    "vuex": "^2.1.1"
+  },
+  "devDependencies": {},
+  "author": "Alf Henderson <alfhenderson@gmail.com>"
+}
